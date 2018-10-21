@@ -32,7 +32,7 @@ a modification to https://github.com/dongjun-Lee/text-summarization-tensorflow
   #### Data is 
   - Dataset is available at harvardnlp/sent-summary (https://github.com/harvardnlp/sent-summary). Locate the summary.tar.gz file in project root directory. which is a collection of news and their titles
   #### Word2Vec
-  - Used Glove pre-trained vectors to initialize word embedding
+  - Used Glove pre-trained vectors to initialize word embedding 
    ####  My Modifications
    - collected all of different modules in one notebook
    - made it compatible with jupiter notebook
