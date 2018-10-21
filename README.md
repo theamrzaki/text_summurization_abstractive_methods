@@ -1,7 +1,8 @@
 # Text Summurization models
 
-This repo is built to collect multiple implementations for abstractive approaches to address text summurization , 
-- it is built to simply run on google colab , in one notebook and to simply connect to your drive , so you would only need an internet connection to run these examples without the need to have a powerful machine , so all the code examples would be in a jupiter format .
+This repo is built to contain multiple different implementations for abstractive approaches to address text summurization , using different datasets , different word2vec , different models , and to review the differences between them to reach the best results.
+
+- All implemntations are built to simply run on google colab , in one notebook and to simply connect to your drive , so you would only need an internet connection to run these examples without the need to have a powerful machine , so all the code examples would be in a jupiter format , and all your datasets and word2vec would be saved on google drive.
 
 ---------------------------------------------------------------------------------
 
