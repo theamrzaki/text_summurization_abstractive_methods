@@ -36,4 +36,4 @@ a modification to https://github.com/dongjun-Lee/text-summarization-tensorflow
    ####  My Modifications
    - collected all of different modules in one notebook
    - made it compatible with jupiter notebook
-   - save data onto google drive , and connect the notebook to the drive
+   - save data onto google drive , and connect the notebook to the drive 
