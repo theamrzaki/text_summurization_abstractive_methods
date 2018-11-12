@@ -38,3 +38,12 @@ a modification to https://github.com/dongjun-Lee/text-summarization-tensorflow
    - save data onto google drive , and connect the notebook to the drive
    - Add bleu and Rouge evaluation
    - Save results with evaluations in xml format
+   
+   
+---------------------------------------------------------------------------------
+
+# The Third ipython (Model_3.ipynb)
+a modification to https://github.com/theamrzaki/text_summurization_abstractive_methods/blob/master/Model_3.ipynb 
+   ####  My Modifications
+   - made it compatible with jupiter notebook
+   - save data onto google drive , and connect the notebook to the drive
