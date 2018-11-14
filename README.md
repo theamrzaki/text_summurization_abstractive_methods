@@ -5,7 +5,7 @@ This repo is built to collect multiple implementations for abstractive approache
 
 ---------------------------------------------------------------------------------
 
-# The first ipython (Seq2Seq2.ipynb)
+# Model_1.ipynb
   is a modification on of David Currie's https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews seq2seq , modifications made were , 
   #### the model
   - uses an encoder with multi layer RNN with LSTM
@@ -62,7 +62,7 @@ we can see that there is an increase el7 in the results when using additional fe
 , you can export your own zaksum format by using code from the notebooks of model 2
 ---------------------------------------------------------------------------------
 
-# The Third ipython (Model_3.ipynb)
+# Model_3.ipynb
 a modification to https://github.com/theamrzaki/text_summurization_abstractive_methods/blob/master/Model_3.ipynb 
    ####  My Modifications
    - made it compatible with jupiter notebook
