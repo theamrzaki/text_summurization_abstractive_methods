@@ -69,6 +69,7 @@ i will still work on their implementation of coverage mechanism , so much work i
 
 this implementation is a continuation of the amazing work done by
 https://github.com/yaserkl/RLSeq2Seq
+https://arxiv.org/abs/1805.09461
 
 ```
 @article{keneshloo2018deep,
