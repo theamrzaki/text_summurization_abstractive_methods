@@ -87,6 +87,6 @@ built for python 2.7
 ### zaksum_eval.ipynb
 built by python3 for evaluation
 
-### Results/Pointer Generator
+### Results/Reinforcement Learning
 - output from Model 5 RL used as input to the zaksum_eval.ipynb
 
