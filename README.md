@@ -1,9 +1,10 @@
 # Text Summarization models
 
-This repo is built to collect multiple implementations for abstractive approaches to address text summarization , 
+This repo is built to collect multiple implementations for abstractive approaches to address text summarization , for different languages (Arabic , English)
 
 **it is built to simply run on google colab , in one notebook  so you would only need an internet connection to run these examples without the need to have a powerful machine , so all the code examples would be in a jupiter format , and you don't have to download data to your device as we connect these jupiter notebooks to google drive**
 
+- **Arabic Summarization** Model using the corner stone implemtnation (seq2seq using Bidirecional LSTM Encoder and attention in the decoder) for summarizing Arabic news
 -  **implementation A** Corner stone seq2seq with attention (using bidirectional ltsm ) , three different models for this implemntation 
 -  **implementation B** seq2seq with pointer genrator model
 -  **implementation C** seq2seq with reinforcement learning
@@ -14,6 +15,10 @@ This repo has been explained in a series of Blogs
 - **Tutorial 1** [ Overview on the different appraches used for abstractive text summarization](https://hackernoon.com/text-summarizer-using-deep-learning-made-easy-490880df6cd?source=post_stats_page--------------------------- "Overview on  abstractive text summarization")
 - **Tutorial 2**  [ How to represent text for our text summarization task ](https://hackernoon.com/abstractive-text-summarization-tutorial-2-text-representation-made-very-easy-ef4511a1a46?source=post_stats_page--------------------------- "text represneataion for text summarization")
 - **Tutorial 3**  [ What seq2seq and why do we use it in text summarization ](https://hackernoon.com/tutorial-3-what-is-seq2seq-for-text-summarization-and-why-68ebaa644db0?source=post_stats_page--------------------------- "What and why seq2seq")
+---------------------------------------------------------------------------------
+## Arabic 
+Using seq2seq (Mulilayer bidirectional LSTM for encoder and a Multi layer lstm Decoder with attention) to summarize arabic news , still working on its enhancement isA 
+
 ---------------------------------------------------------------------------------
 
 ## Implementation A (seq2seq with attention and feature rich representation)
