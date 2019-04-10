@@ -16,11 +16,14 @@ This repo has been explained in a series of Blogs
 - **Tutorial 2**  [ How to represent text for our text summarization task ](https://hackernoon.com/abstractive-text-summarization-tutorial-2-text-representation-made-very-easy-ef4511a1a46?source=post_stats_page--------------------------- "text represneataion for text summarization")
 - **Tutorial 3**  [ What seq2seq and why do we use it in text summarization ](https://hackernoon.com/tutorial-3-what-is-seq2seq-for-text-summarization-and-why-68ebaa644db0?source=post_stats_page--------------------------- "What and why seq2seq")
 - **Tutorial 4** [Multilayer Bidirectional Lstm/Gru for text summarization](https://medium.com/@theamrzaki/multilayer-bidirectional-lstm-gru-for-text-summarization-made-easy-tutorial-4-a63db108b44f)
+- **Tutorial 5** [Beam Search & Attention for text summarization](https://medium.com/@theamrzaki/beam-search-attention-for-text-summarization-made-easy-tutorial-5-3b7186df7086)
 
 ---------------------------------------------------------------------------------
 ## Arabic 
+* **Model 1_5**
 Using seq2seq (Mulilayer bidirectional LSTM for encoder and a Multi layer lstm Decoder with attention) to summarize arabic news , still working on its enhancement isA 
-
+* **Model 2_5**
+Using seq2seq (Mulilayer bidirectional LSTM for encoder and a Multi layer lstm Decoder with attention & Beam search) to summarize arabic news , el7 much better resuts , as i only used data with low unknowns (unk summary limit : 1) (unk document limit : 2)
 ---------------------------------------------------------------------------------
 
 ## Implementation A (seq2seq with attention and feature rich representation)
