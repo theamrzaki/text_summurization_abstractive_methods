@@ -17,6 +17,7 @@ This repo has been explained in a series of Blogs
 - **Tutorial 3**  [ What seq2seq and why do we use it in text summarization ](https://hackernoon.com/tutorial-3-what-is-seq2seq-for-text-summarization-and-why-68ebaa644db0?source=post_stats_page--------------------------- "What and why seq2seq")
 - **Tutorial 4** [Multilayer Bidirectional Lstm/Gru for text summarization](https://medium.com/@theamrzaki/multilayer-bidirectional-lstm-gru-for-text-summarization-made-easy-tutorial-4-a63db108b44f)
 - **Tutorial 5** [Beam Search & Attention for text summarization](https://medium.com/@theamrzaki/beam-search-attention-for-text-summarization-made-easy-tutorial-5-3b7186df7086)
+- **Tutoial 6** [Build an Abstractive Text Summarizer in 94 Lines of Tensorflow](http://bit.ly/2ZeEmvO)
 
 ---------------------------------------------------------------------------------
 ## Arabic 
