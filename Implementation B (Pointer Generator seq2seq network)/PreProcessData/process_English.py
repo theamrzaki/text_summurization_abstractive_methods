@@ -287,7 +287,7 @@ if __name__ == '__main__':
   #data needed is in a csv format
   #containg 2 columbs (content , title)
   reviews_csv =cnn_stories_dir + "\ArabicBook00.csv"
-  reviews = pd.read_csv(reviews_csv,header = 1) #skip first row (of header)
+  reviews = pd.read_csv(reviews_csv)
   reviews = reviews.filter(['content', 'title'])
   reviews = reviews.dropna()
   reviews = reviews.reset_index(drop=True)
