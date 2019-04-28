@@ -19,13 +19,6 @@ This repo has been explained in a series of Blogs
 - **Tutorial 5** [Beam Search & Attention for text summarization](https://medium.com/@theamrzaki/beam-search-attention-for-text-summarization-made-easy-tutorial-5-3b7186df7086)
 - **Tutorial 6** [Build an Abstractive Text Summarizer in 94 Lines of Tensorflow](http://bit.ly/2ZeEmvO)
 
----------------------------------------------------------------------------------
-## Arabic 
-* **Model 1_5**
-Using seq2seq (Mulilayer bidirectional LSTM for encoder and a Multi layer lstm Decoder with attention) to summarize arabic news , still working on its enhancement isA 
-* **Model 2_5**
-Using seq2seq (Mulilayer bidirectional LSTM for encoder and a Multi layer lstm Decoder with attention & Beam search) to summarize arabic news , el7 much better resuts , as i only used data with low unknowns (unk summary limit : 1) (unk document limit : 2)
----------------------------------------------------------------------------------
 
 ## Implementation A (seq2seq with attention and feature rich representation)
 contains 3 different models that implements the concept of hving a seq2seq network with attention 
