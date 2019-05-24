@@ -18,6 +18,7 @@ This repo has been explained in a series of Blogs
 - **Tutorial 4** [Multilayer Bidirectional Lstm/Gru for text summarization](https://medium.com/@theamrzaki/multilayer-bidirectional-lstm-gru-for-text-summarization-made-easy-tutorial-4-a63db108b44f)
 - **Tutorial 5** [Beam Search & Attention for text summarization](https://medium.com/@theamrzaki/beam-search-attention-for-text-summarization-made-easy-tutorial-5-3b7186df7086)
 - **Tutorial 6** [Build an Abstractive Text Summarizer in 94 Lines of Tensorflow](http://bit.ly/2ZeEmvO)
+- **Tutorial 7** [Pointer generator for combination of Abstractive & Extractive methods for Text Summarization](http://bit.ly/2EhcRIZ)
 
 
 ## Implementation A (seq2seq with attention and feature rich representation)
