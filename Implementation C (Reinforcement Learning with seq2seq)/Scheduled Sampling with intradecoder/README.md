@@ -5,6 +5,7 @@ which has been converted to a jupyter notebook format to run seamlesly within go
 
 ## Description
 description from [yasterk](https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
+
 [Bengio et al](https://arxiv.org/abs/1506.03099). proposed the idea of scheduled sampling for avoiding exposure bias problem.
 ```
 @ARTICLE{2015arXiv150603099B,
