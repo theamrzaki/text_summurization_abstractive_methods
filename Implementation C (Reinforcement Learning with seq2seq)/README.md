@@ -42,7 +42,7 @@ archivePrefix = {arXiv},
 
 
 ## Policy-Gradient 
-description from [yasterk]((https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
+description from [yasterk](https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
 
 [Paulus et al](https://arxiv.org/abs/1705.04304). proposed a self-critic policy-gradient model for abstractive text summarization. The following figure represents how this method works and how we implemented this method:
 
