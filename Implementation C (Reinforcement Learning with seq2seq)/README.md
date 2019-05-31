@@ -14,11 +14,12 @@ https://arxiv.org/abs/1805.09461
 }
 ```
 
-This is a library for implementing **Reinforcment learning with deep learning for text summarization** .
-Here apply some experiments from published papers using this library , which has been converted to a jupyter notebook format to run seamlesly within google colab
+This is a library for implementing **Reinforcment learning with deep learning for text summarization** , which has been converted to a jupyter notebook format to run seamlesly within google colab
+here apply some experiments from published papers using this library . 
 
 ## Scheduled Sampling with intradecoder 
 description from [yasterk](https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
+
 [Bengio et al](https://arxiv.org/abs/1506.03099). proposed the idea of scheduled sampling for avoiding exposure bias problem.
 ```
 @ARTICLE{2015arXiv150603099B,
@@ -41,9 +42,10 @@ archivePrefix = {arXiv},
 
 
 ## Policy-Gradient 
-description from [yasterk](description from [yasterk](https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
+description from [yasterk]((https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
+
 [Paulus et al](https://arxiv.org/abs/1705.04304). proposed a self-critic policy-gradient model for abstractive text summarization. The following figure represents how this method works and how we implemented this method:
-image from [yasterk](description from [yasterk](https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
+image from [yasterk]((https://github.com/yaserkl/RLSeq2Seq#scheduled-sampling-soft-scheduled-sampling-and-end2endbackprop) 
 ![Policy-Gradient](https://github.com/yaserkl/RLSeq2Seq/raw/master/docs/_img/selfcritic.png)
 
 ```
