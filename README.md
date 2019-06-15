@@ -36,7 +36,7 @@ http://eazymind.herokuapp.com/arabic_sum/eazysum
 	```pip install eazymind```
 	
 ```
-from nlp.eazysum import Summarizer
+from eazymind.nlp.eazysum import Summarizer
 
 #---key from eazymind website---
 key = "xxxxxxxxxxxxxxxxxxxxx"
