@@ -20,6 +20,7 @@ This repo has been explained in a series of Blogs
 - **Tutorial 6** [Build an Abstractive Text Summarizer in 94 Lines of Tensorflow](http://bit.ly/2ZeEmvO)
 - **Tutorial 7** [Pointer generator for combination of Abstractive & Extractive methods for Text Summarization](http://bit.ly/2EhcRIZ)
 - **Tutorial 8** [Teach seq2seq models to learn from their mistakes using deep curriculum learning](http://bit.ly/2My51kX)
+- **Tutorial 9** [Deep Reinforcement Learning (DeepRL) for Abstractive Text Summarization made easy](http://bit.ly/2MDlUHC)
 ---------------------------------------------------------------------------------
 
 Try out this text summarization through [this website (eazymind)](http://bit.ly/2VxhPqU) ,
