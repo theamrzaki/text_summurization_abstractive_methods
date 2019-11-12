@@ -63,7 +63,7 @@ we can see that there is an increase el7 in the results when using additional fe
 ---------------------------------------------------------------------------------
 
 # Model_3.ipynb
-a modification to https://github.com/theamrzaki/text_summurization_abstractive_methods/blob/master/Model_3.ipynb 
+a modification to https://github.com/thomasschmied/Text_Summarization_with_Tensorflow/blob/master/summarizer_amazon_reviews.ipynb 
    ####  My Modifications
    - made it compatible with jupiter notebook
    - save data onto google drive , and connect the notebook to the drive
