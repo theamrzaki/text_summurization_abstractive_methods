@@ -1,6 +1,26 @@
 # Text Summarization models
 
-This repo is built to collect multiple implementations for abstractive approaches to address text summarization , for different languages (Arabic , English)
+This repo is built to collect multiple implementations for abstractive approaches to address text summarization , for different languages (Hindi, Amharic, English, and soon isA Arabic)
+
+If you found this project helpful please consider citing our work, it would truly mean so much for me
+
+```
+@inproceedings{Deep-Architectures-Abstractive-Text-Summarization-Amr-Zaki-2019,
+	title = "Deep Architectures for Abstractive Text
+	Summarization in Multiple Languages",
+	author = "Amr M. Zaki  and
+	Mahmoud I. Khalil  and
+	Hazem M. Abbas.",
+	booktitle = "14th IEEE International Conference on Computer Engineering and Systems (ICCES 2019)",
+	month = dec,
+	year = "2019",
+	address = "Cairo, Egypt",
+	publisher = "IEEE",
+	url = "http://www.icces.org.eg/",
+	doi = "",
+	pages = "",
+}
+```
 
 **it is built to simply run on google colab , in one notebook  so you would only need an internet connection to run these examples without the need to have a powerful machine , so all the code examples would be in a jupiter format , and you don't have to download data to your device as we connect these jupiter notebooks to google drive**
 
