@@ -6,20 +6,24 @@ This repo is built to collect multiple implementations for abstractive approache
 If you found this project helpful please consider citing our work, it would truly mean so much for me
 
 ```
-@inproceedings{Deep-Architectures-Abstractive-Text-Summarization-Amr-Zaki-2019,
-	title = "Deep Architectures for Abstractive Text
-	Summarization in Multiple Languages",
-	author = "Amr M. Zaki  and
-	Mahmoud I. Khalil  and
-	Hazem M. Abbas.",
-	booktitle = "14th IEEE International Conference on Computer Engineering and Systems (ICCES 2019)",
-	month = dec,
-	year = "2019",
-	address = "Cairo, Egypt",
-	publisher = "IEEE",
-	url = "http://www.icces.org.eg/",
-	doi = "",
-	pages = "",
+@INPROCEEDINGS{9068171,
+  author={A. M. {Zaki} and M. I. {Khalil} and H. M. {Abbas}},
+  booktitle={2019 14th International Conference on Computer Engineering and Systems (ICCES)}, 
+  title={Deep Architectures for Abstractive Text Summarization in Multiple Languages}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={22-27},}
+```
+
+```
+@misc{zaki2020amharic,
+    title={Amharic Abstractive Text Summarization},
+    author={Amr M. Zaki and Mahmoud I. Khalil and Hazem M. Abbas},
+    year={2020},
+    eprint={2003.13721},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
 
